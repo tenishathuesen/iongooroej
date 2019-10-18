@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eexaileex.tableplantlight.com/sitemap.xml
